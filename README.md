@@ -2,7 +2,7 @@
 
 **Descrição**
 
-  Este projeto implementa um Assistente de Compras de Supermercado inteligente utilizando a API do Google Gemini. A ferramenta coleta informações do usuário sobre suas necessidades de compra, incluindo número de pessoas, duração da compra, restrições alimentares, hábitos alimentares e alergias. Com base nesses dados, o sistema gera uma lista de compras personalizada, organizada por categorias e com quantidades especificadas, otimizada para evitar desperdícios.
+  Este projeto implementa um Assistente de Compras de Supermercado inteligente utilizando a API do Google Gemini. A ferramenta coleta informações do usuário sobre suas necessidades de compra, incluindo número de pessoas, duração da compra, restrições alimentares, hábitos alimentares e alergias e o "estoque" atual de produtos na despensa ou geladeira. Com base nesses dados, o sistema gera uma lista de compras personalizada, organizada por categorias e com quantidades especificadas, considerando os produtos da imagem da despensa do usuário para evitar desperdícios.
 
 **Funcionalidades**
 
